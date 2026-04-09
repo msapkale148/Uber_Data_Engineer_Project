@@ -11,7 +11,7 @@
     "city": "Las Vegas",
     "state": "CA",
     "region": "West",
-    "updated_at" : "2026-04-08T09:45:09.672+00:00"
+    "updated_at" : "2026-04-08T19:45:09.672+00:00"
   },
   {
     "city_id": 3,
@@ -32,7 +32,7 @@
     "city": "Phoenix",
     "state": "AZ",
     "region": "Southwest",
-    "updated_at" : "2026-04-08T09:45:09.672+00:00"
+    "updated_at" : "2026-04-08T14:45:09.672+00:00"
   },
   {
     "city_id": 6,

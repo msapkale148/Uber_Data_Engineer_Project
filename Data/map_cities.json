@@ -8,7 +8,7 @@
   },
   {
     "city_id": 2,
-    "city": "Los Angelas",
+    "city": "Las Vegas",
     "state": "CA",
     "region": "West",
     "updated_at" : "2026-04-08T09:45:09.672+00:00"
@@ -25,7 +25,7 @@
     "city": "Houston",
     "state": "TX",
     "region": "South",
-    "updated_at" : "2026-04-08T09:45:09.672+00:00"
+    "updated_at" : "2026-04-08T19:45:09.672+00:00"
   },
   {
     "city_id": 5,
